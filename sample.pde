@@ -1,13 +1,15 @@
 void setup() {
-    size(600, 600, P3D);
-    noLoop();
+  size(640, 640);
+  background(0);
+  
+  stroke(255);
+  fill(150);
+  strokeWeight(5);
 }
 
 void draw() {
-    background(0);
-    lights();
-    translate(width/2, height/2, 0);
-    rotateY(radians(-30));
-    rotateX(radians(-30));
-    box(100);
+}
+
+void mouseClicked() {
+  ellipse(mouseX, mouseY, 50, 50);
 }
