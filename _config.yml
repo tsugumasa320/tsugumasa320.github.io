@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tsugumasa Yutani / Portfolio"
+title                    : "Tsugumasa Yutani"
 title_separator          : "-"
 name                     : &name "Tsugumasa Yutani"
 description              : &description "Maker / Lover of music and engineering"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tsugumasa Yutani"
   avatar           : "Yutani.png"
-  bio              : "Master student at Univercity of Tsukuba"
+  bio              : "Instrument maker, Master student at Univercity of Tsukuba"
   location         : "Tokyo or Tsukuba, Ibaraki, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
