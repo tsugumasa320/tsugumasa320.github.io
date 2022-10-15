@@ -12,20 +12,19 @@ redirect_from:
 Education
 ======
 * B.S. in Precision Mechanical Engineering, Nihon University, 2017
-* M.S. in Informatics, Tsukuba University, 2014 (expected)
+* M.S. in Informatics, Tsukuba University, 2024 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* 2017~2022: Panasonic Corporation
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 ~ 2022 : Panasonic Corporation
+  * Advance Development of Washing Machine
+  * 
+  * 
 
-* Summer 2022: teamLab inc. (intern)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: teamLab inc. (　intern　)
+  * Hardware Engineering Team (Space Production Engineer)
+  * Sound processing and microcontroller firmware development
   
 Skills
 ======
