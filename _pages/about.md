@@ -13,7 +13,7 @@ I am a master's student at the [University of Tsukuba](https://www.tsukuba.ac.jp
 
 Prior to entering the master's program, I worked for [Panasonic](https://www.panasonic.com/global/about.html) for five years in the development and design of [washing machines](https://panasonic.jp/wash/products.html).
 
-I participate in the activities of [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/) and make a variety of home appliance instruments. In addition, I also make M4L plug-ins, guitar effectors, and circuit-bendable toys. I am also interested in modular synths and would like to build one in the future.
+I participate in the activities of [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/) and make a home appliance instruments. In addition, I also make M4L plug-ins, guitar effectors, and circuit-bendable toys. I am also interested in modular synths and would like to build one in the future.
 
 My interest
 ======
