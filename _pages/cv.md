@@ -19,8 +19,8 @@ Work experience
 ======
 * 2017 ~ 2022 : Panasonic Corp.
  * Advance Development of Washing Machine
-    * [GUI development for new drum-type washing machine](https://panasonic.jp/wash/products/na_lx129a.html) : NA-LX129 Series
-    * Compressor control system design : for China model
+    * [New GUI development for NA-LX129 series washing machines](https://panasonic.jp/wash/products/na_lx129a.html)
+    * Compressor control system design
     * Research on updatable appliances
     * Planning and prototyping of new features
 
