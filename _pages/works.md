@@ -14,7 +14,12 @@ redirect_from:
 work at a company
 ===
 
+## NA-VX~~
+
+## patent
 
 
 independent work
 ===
+
+## Electronicos Fantasticos!
