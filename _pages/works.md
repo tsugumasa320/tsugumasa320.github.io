@@ -8,3 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+(WIP)
+
+work at a company
+===
+
+
+
+independent work
+===
