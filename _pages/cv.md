@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Precision Mechanical Engineering, Nihon University, 2017
+* M.S. in Informatics, Tsukuba University, 2014 (expected)
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2017~2022: Panasonic Corporation
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Summer 2022: teamLab inc. (intern)
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
