@@ -1,9 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Works"
-excerpt: "Works"
+permalink: /works/
 author_profile: true
-redirect_from: 
-  - /Works/
-  - /Works.html
+redirect_from:
+  - /works
 ---
