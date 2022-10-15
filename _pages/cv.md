@@ -22,7 +22,7 @@ Work experience
   * 
   * 
 
-* Summer 2022: teamLab inc. (　intern　)
+* Summer 2022: teamLab inc. (intern)
   * Hardware Engineering Team (Space Production Engineer)
   * Sound processing and microcontroller firmware development
   
@@ -34,24 +34,26 @@ Skills
 and
 Fusion360, NX, EAGLE, KiCAD, Processing, Cycling'74 Max, Puredata etc...
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+-->  
+
+Patent
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+* Washing machine
+  * Support devices and methods [JP,2022-053808,A](https://www.j-platpat.inpit.go.jp/p0200) (Unclaimed)
+
+
+Teaching assistant
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* 2022 Autumn : Signals and Systems
   
-Service and leadership
+Miscellaneous
 ======
-* Currently signed in to 43 different slack teams
+* 
