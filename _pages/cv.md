@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2017 ~ 2022 : Panasonic Corporation
+* 2017 ~ 2022 : Panasonic Corp.
   * Advance Development of Washing Machine
   * 
   * 
