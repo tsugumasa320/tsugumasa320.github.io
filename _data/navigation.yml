@@ -2,6 +2,9 @@
 main:
   - title: "Works"
     url: /works/
+    
+    - title: "Make"
+    url: /make/  
 
 #  - title: "Talks"
 #    url: /talks/    
