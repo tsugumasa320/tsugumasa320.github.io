@@ -38,15 +38,20 @@ A project led by artist/musician Ei Wada to resuscitate electrical appliances th
 Event
 ===
 
- * DIY MUSIC on Desktop 2020
- * DIY MUSIC on Desktop 2021
- * DOMMUNE
- * Sumida River Storm and Urge
+ * Maker Faire Tokyo 2019 / 2019.8.3~4
+ * [DIY MUSIC on Desktop 2020](https://youtu.be/viIktfY17sk?t=4880) / 2020.7.25
+ * DOMMUNE / 2020.8.22
+ * Sumida River Storm and Urge　/ 2021.5.22~23
+ * DIY MUSIC on Desktop 2021 (Solo) / 
 
 Media
 ===
 
-adafruit [Telephone Rhythm Machine ☎︎](https://blog.adafruit.com/2022/03/25/telephone-rhythm-machine-%E2%98%8E%EF%B8%8E/)
+Laughing squied : [An Innovative Musical Instrument Made Using a Classic Rotary Telephone and a Drum Rhythm Machine](https://laughingsquid.com/telephone-rhythm-machine/)
 
-PC GAMER　[These guitars made from old CRTs and PC fans absolutely slap](https://www.pcgamer.com/these-guitars-made-from-old-crts-and-pc-fans-absolutely-slap/)
+adafruit : [Telephone Rhythm Machine ☎︎](https://blog.adafruit.com/2022/03/25/telephone-rhythm-machine-%E2%98%8E%EF%B8%8E/)
+
+Maker music festival : [2 Telephones](https://www-makermusicfestival-com.translate.goog/mobile/projects/Synthesizers/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=sc)
+
+PC GAMER　 : [These guitars made from old CRTs and PC fans absolutely slap](https://www.pcgamer.com/these-guitars-made-from-old-crts-and-pc-fans-absolutely-slap/)
 * Mouscratch is described.
