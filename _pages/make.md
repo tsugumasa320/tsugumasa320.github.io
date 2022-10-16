@@ -15,6 +15,9 @@ A project led by artist/musician Ei Wada to resuscitate electrical appliances th
 
 ### Mouscratch 
 
+<img src="https://pbs.twimg.com/media/EW_Z40wUYAMocOm?format=jpg&name=4096x4096" width="300px">
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Connect the electric signal to a speaker.<br>Mouscratch on the capitarhythm.<br>Show your tricks, they are like<br>one click, double click, drag and drop🖱<a href="https://twitter.com/hashtag/mouscratch?src=hash&amp;ref_src=twsrc%5Etfw">#mouscratch</a> <a href="https://twitter.com/hashtag/electronicosfantasticos?src=hash&amp;ref_src=twsrc%5Etfw">#electronicosfantasticos</a><a href="https://t.co/0HRooPN1Ir">pic.twitter.com/0HRooPN1Ir</a></p>&mdash; ELECTRONICOS FANTASTICOS! (@electronicos_f) <a href="https://twitter.com/electronicos_f/status/1262303740603727873?ref_src=twsrc%5Etfw">May 18, 2020</a></blockquote>
 
 * Original equipment: Ball-type mouse Instrument 
