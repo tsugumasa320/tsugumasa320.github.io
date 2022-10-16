@@ -26,11 +26,11 @@ Joined Panasonic Corporation in 2017.I was assigned to the laundry business and 
 
 ---
 
-### Control design of a new compressor
+### Development of drying function
 
 <img src="https://panasonic.jp/wash/products/lx/heatpump/21heatpump_02.jpg" width="300px">
 
-  * Activities: Conducted control design while conducting various tests in order to adopt a new compressor.
+  * Activities: Conducted control design while conducting various tests in order to adopt a new compressor　and　Development and verification of drying filters
   * Outcome: Currently in progress, scheduled for commercialization in the next fiscal year
   * Role: Planning and implementation of various tests, parameter design
 
