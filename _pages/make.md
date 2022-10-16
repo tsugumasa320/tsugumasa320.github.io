@@ -7,6 +7,9 @@ redirect_from:
   - /make
 ---
 
+onomatopet
+===
+
 Electronicos Fantasticos!
 ===
 A project led by artist/musician Ei Wada to resuscitate electrical appliances that have outlived their usefulness into new electronic instruments to form an orchestra. There are four bases of activity in four cities: Tokyo, Kyoto, Hitachi, and Linz, and I was active in the Kyoto lab.
