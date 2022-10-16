@@ -57,7 +57,7 @@ Events (that I attended)
  * [DOMMUNE](https://www.dommune.com/), 2020.8.22
  * [Sumida River Storm and Urge](https://dotou.tokyo/program/57/), 2021.5.23
  * [DIY MUSIC on Desktop 2021](https://youtu.be/zo0USqJoxS4?t=7149) (Solo) 
- * [廻転 -DIY Instrumental Performance](https://fabcafe.com/jp/events/nagoya/220326_rotation/?fbclid=IwAR0y62KqZer-ojpd39BiGzLFvEL38npRM4872Pky7JKxn-3yWyP8yLPAy_g) (Solo
+ * [廻転 -DIY Instrumental Performance](https://fabcafe.com/jp/events/nagoya/220326_rotation/?fbclid=IwAR0y62KqZer-ojpd39BiGzLFvEL38npRM4872Pky7JKxn-3yWyP8yLPAy_g) (Solo)
  * 20/100 [Route Map Composition](https://www.electronicosfantasticos.com/news/220110/)
 
 Media
