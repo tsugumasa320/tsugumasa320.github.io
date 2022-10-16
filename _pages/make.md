@@ -7,8 +7,14 @@ redirect_from:
   - /make
 ---
 
-onomatopet
+collaboration
 ===
+
+## Onpmatopet
+The instruments created as part of the "Resonating Bodies" short-term intensive camp were exhibited, based on the theme of "creating musical instruments that can be enjoyed by people with and without disabilities.
+
+2022.7.3日〜7.7日 @ Tokyo Metropolitan Art Museum
+
 
 Electronicos Fantasticos!
 ===
