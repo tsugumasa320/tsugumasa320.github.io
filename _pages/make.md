@@ -52,11 +52,12 @@ A project led by artist/musician Ei Wada to resuscitate electrical appliances th
 Events (that I attended)
 ===
 
- * [Maker Faire Tokyo 2019](https://makezine.jp/event/mft2019/) ,2019.8.3~4
+ * [Maker Faire Tokyo 2019](https://www.electronicosfantasticos.com/news/190803-04_mft2019/) ,2019.8.3~4
  * [DIY MUSIC on Desktop 2020](https://youtu.be/viIktfY17sk?t=4880) ,2020.7.25
  * [DOMMUNE](https://www.dommune.com/), 2020.8.22
  * [Sumida River Storm and Urge](https://dotou.tokyo/program/57/), 2021.5.23
  * [DIY MUSIC on Desktop 2021](https://youtu.be/zo0USqJoxS4?t=7149) (Solo) 
+ * 20/100 [Route Map Composition](https://www.electronicosfantasticos.com/news/220110/)
 
 Media
 ===
