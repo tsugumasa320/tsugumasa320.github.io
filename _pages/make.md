@@ -34,3 +34,19 @@ A project led by artist/musician Ei Wada to resuscitate electrical appliances th
 
 * Original instrument: Push Phone Instrument 
 * description: The push phone uses DTMF (Dual-Tone Multi-Frequency), a method of communicating by sending a total of 16 different codes, consisting of numbers from 0 to 9 and the symbols *, #, A, B, C and D, in two speech frequency bands, low group and high group. The communication is carried out by transmitting the codes with synthetic signal tones in two speech frequency bands, low group and high group. The instrument is played by processing the tone of these unique sounds with effectors and other devices.
+
+Event
+===
+
+ * DIY MUSIC on Desktop 2020
+ * DIY MUSIC on Desktop 2021
+ * DOMMUNE
+ * Sumida River Storm and Urge
+
+Media
+===
+
+adafruit [Telephone Rhythm Machine ☎︎](https://blog.adafruit.com/2022/03/25/telephone-rhythm-machine-%E2%98%8E%EF%B8%8E/)
+
+PC GAMER　[These guitars made from old CRTs and PC fans absolutely slap](https://www.pcgamer.com/these-guitars-made-from-old-crts-and-pc-fans-absolutely-slap/)
+* Mouscratch is described.
