@@ -16,7 +16,7 @@ collaboration
      
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こんな感じで遊んでもらってます <a href="https://t.co/hbcrMeap0D">pic.twitter.com/hbcrMeap0D</a></p>&mdash; ユタニツグマサ / Tsugumasa Yutani (@tsugumasa320) <a href="https://twitter.com/tsugumasa320/status/1543444263140478976?ref_src=twsrc%5Etfw">July 3, 2022</a></blockquote>
 
-The instruments created as part of the "Resonating Bodies" short-term intensive camp were exhibited, based on the theme of "creating musical instruments that can be enjoyed by people with and without disabilities.
+The instruments created as part of the ["Resonating Bodies"](https://creativewell.rekibun.or.jp/conference/cultural-future-camp-recruitment/) short-term intensive camp were exhibited, based on the theme of "creating musical instruments that can be enjoyed by people with and without disabilities.
 
 2022.7.3日〜7.7日 @ Tokyo Metropolitan Art Museum
 
