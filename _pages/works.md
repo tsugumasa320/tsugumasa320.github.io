@@ -16,7 +16,7 @@ Joined Panasonic Corporation in 2017.I was assigned to the laundry business and 
 
 ---
 
-### [New GUI development for NA-LX129 series washing machines](https://panasonic.jp/wash/products/na_lx129a.html)
+### New GUI development for [NA-LX129](https://panasonic.jp/wash/products/na_lx129a.html) series washing machines]
 
 <img src="https://panasonic.jp/wash/products/2021_lx/21lx_16_pc.jpg" width="600px">
 
