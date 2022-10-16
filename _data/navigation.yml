@@ -3,7 +3,7 @@ main:
   - title: "Works"
     url: /works/
     
-    - title: "Make"
+  - title: "Make"
     url: /make/  
 
 #  - title: "Talks"
