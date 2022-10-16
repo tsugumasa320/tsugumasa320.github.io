@@ -40,7 +40,7 @@ Joined Panasonic Corporation in 2017.I was assigned to the laundry business and 
 
 <img src="https://holdings.panasonic/content/dam/panasonic/phd-jp/ja/business/homex/img/illust/illust-mission-homex.svg" width="600px">
 
-  * Activities: Various devices, including smartphones, continue to provide value to customers by consistently updating their software. What kind of value can be created by making next-generation home appliances updateable? Also, what kind of technical configuration is necessary?
+  * Activities: Research and development of updatable home appliances
   * Outcome: Presentation to the board of directors and handover to the R&D department
   * Role: Technical research, prototype development, user testing, preparation of technical documents, patent application, etc.
   * Patent: Support devices and methods [JP,2022-053808,A](https://www.j-platpat.inpit.go.jp/p0200) (Unclaimed)
