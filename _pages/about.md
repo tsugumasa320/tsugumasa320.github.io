@@ -19,7 +19,7 @@ My interest
 ======
 My interest is to use deep learning to create new effectors and oscillators. I would like it to be something that can be used in real time, but I am also interested in things like generating sampled sounds.
 
-I used to build instruments by modifying consumer electronics. This was part of the [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/), and I made a lot of weird instruments. I have worked in hardware development (e.g., mechanical design, circuit design, embedded software, etc.) in my previous jobs, and I am good at using digital fabrication techniques to come up with interfaces for musical instruments.
+I used to build instruments by modifying consumer electronics. This was part of the [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/), and I made a lot of weird instruments. I have worked in hardware development (I was mainly looking at mechanical design, as well as circuits and software.) in my previous jobs, and I am good at using digital fabrication techniques to come up with interfaces for musical instruments.
 
 I know how to do human-centered design and design thinking well, and I am strong in this kind of process of prototyping and value verification in fast iterations to move things forward.
 
