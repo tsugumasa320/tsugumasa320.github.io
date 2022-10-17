@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2017 ~ 2022 : [Panasonic Corp.](https://www.panasonic.com/global/about.html)
+* 2017 ~ 2022: [Panasonic Corp.](https://www.panasonic.com/global/about.html)
  * Advance Development of [Washing Machine](https://panasonic.jp/wash/)
     * [New GUI development for NA-LX129 series washing machines](https://panasonic.jp/wash/products/na_lx129a.html)
     * Compressor control system design
@@ -54,7 +54,7 @@ Patent
 Teaching assistant
 ======
 
-* 2022 Autumn : Signals and Systems
+* 2022 Autumn: Signals and Systems
   
 <!--
 Miscellaneous
