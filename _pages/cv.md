@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Precision Mechanical Engineering, Nihon University, 2017
-* M.S. in Informatics, Tsukuba University, 2024 (expected)
+* [B.S. in Precision Mechanical Engineering](https://www.eme.cst.nihon-u.ac.jp/), Nihon University, JAPAN, 2017
+* [M.S. in Informatics, Tsukuba University](https://informatics.tsukuba.ac.jp/en/), JAPAN, 2024 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
