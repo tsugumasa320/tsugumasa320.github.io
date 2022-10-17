@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* 2017 ~ 2022 : Panasonic Corp.
- * Advance Development of Washing Machine
+* 2017 ~ 2022 : [Panasonic Corp.](https://www.panasonic.com/global/about.html)
+ * Advance Development of [Washing Machine](https://panasonic.jp/wash/)
     * [New GUI development for NA-LX129 series washing machines](https://panasonic.jp/wash/products/na_lx129a.html)
     * Compressor control system design
     * Research on updatable appliances
     * Planning and prototyping of new features
 
-* Summer 2022: teamLab inc. (intern)
+* Summer 2022: [teamLab inc.](https://www.teamlab.art/) (intern)
   * Hardware Engineering Team (Space Production Engineer)
   * Sound processing and microcontroller firmware development
   
