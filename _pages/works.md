@@ -12,7 +12,7 @@ redirect_from:
 work at a company
 ===
 
-Joined [Panasonic Corporation](https://www.panasonic.com/global/about.html) in 2017.I was assigned to the [laundry business and worked]（https://panasonic.jp/wash/） as a production engineer from 2017~2019, and engaged in advanced development from 2019. In cooperation with the research department, I was in charge of a wide range of work from research and development of next-generation home appliances to themes that lead to product realization, and mainly conducted control software development centered on mechanical design development.
+Joined [Panasonic Corporation](https://www.panasonic.com/global/about.html) in 2017.I was assigned to the [laundry business and worked](https://panasonic.jp/wash/) as a production engineer from 2017~2019, and engaged in advanced development from 2019. In cooperation with the research department, I was in charge of a wide range of work from research and development of next-generation home appliances to themes that lead to product realization, and mainly conducted control software development centered on mechanical design development.
 
 ---
 
