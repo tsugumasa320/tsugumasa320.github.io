@@ -12,7 +12,7 @@ collaboration
 
 ## Onomatopet
 
-<img src = "https://pbs.twimg.com/media/FWtYeuJaIAAlw-X?format=jpg&name=4096x4096" width="300px"><img src = "https://pbs.twimg.com/media/FWtYeuQagAAOkMf?format=jpg&name=large" width="300px"><img src = "https://pbs.twimg.com/media/FWtWBCBaQAAH_-S?format=jpg&name=4096x4096" width="224px">
+<img src = "https://pbs.twimg.com/media/FWtYeuJaIAAlw-X?format=jpg&name=4096x4096" width="300px"><img src = "https://pbs.twimg.com/media/FWtYeuQagAAOkMf?format=jpg&name=large" width="300px"><!--<img src = "https://pbs.twimg.com/media/FWtWBCBaQAAH_-S?format=jpg&name=4096x4096" width="224px">-->
      
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こんな感じで遊んでもらってます <a href="https://t.co/hbcrMeap0D">pic.twitter.com/hbcrMeap0D</a></p>&mdash; ユタニツグマサ / Tsugumasa Yutani (@tsugumasa320) <a href="https://twitter.com/tsugumasa320/status/1543444263140478976?ref_src=twsrc%5Etfw">July 3, 2022</a></blockquote>
 
