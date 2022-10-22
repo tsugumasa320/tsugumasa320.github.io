@@ -48,7 +48,7 @@ Patent
 ======
 
 * Washing machine
-  * Support devices and methods [JP,2022-053808,A](https://www.j-platpat.inpit.go.jp/p0200) (Unclaimed)
+  * Support devices and methods [JP,2022-053808,A](https://www.j-platpat.inpit.go.jp/p0200) 
 
 
 Teaching assistant
