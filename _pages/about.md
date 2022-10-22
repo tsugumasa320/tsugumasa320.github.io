@@ -15,7 +15,8 @@ Before entering the master’s program, I worked for [Panasonic](https://www.pan
 I participate in the activities of [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/) and make a home appliance instruments. In addition, I also make M4L plug-ins, guitar effectors, and circuit-bendable toys. I am also interested in modular synths and would like to build one in the future.
 
 My interest
-======
+
+----
 My interest is to use deep learning to create new effectors and oscillators. I want it to be something that can be used in real-time, but I am also interested in things like generating sampled sounds.
 
 I used to build instruments by modifying consumer electronics. This was part of the [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/), and I made a lot of musical instruments. I have worked in hardware development (mainly looking at the mechanical design, circuits, and software.) in my previous jobs, and I am good at using digital fabrication techniques to develop interfaces for musical instruments.
@@ -23,7 +24,7 @@ I used to build instruments by modifying consumer electronics. This was part of 
 I know how to do human-centered design and design thinking well, and I am strong in this process of prototyping and value verification in fast iterations to move things forward.
 
 Technical Skils
-======
+---
 
 ## Programming
 
