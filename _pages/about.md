@@ -25,7 +25,6 @@ I know how to do human-centered design and design thinking well, and I am strong
 
 Technical Skils
 =====
----
 
 ## Programming
 
