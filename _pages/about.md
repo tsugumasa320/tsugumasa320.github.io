@@ -41,4 +41,4 @@ Fusion360, Siemens NX, Nastran
 
 ## Prototyping enviroment
 
-Arduino, ESP32, M5Stack, Raspberry pi pico, Nucleo, obniz, Raspberry pi
+Arduino, ESP32, M5Stack, Nucleo, obniz, Raspberry pi pico, Raspberry pi
