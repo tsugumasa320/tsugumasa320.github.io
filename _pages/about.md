@@ -37,4 +37,4 @@ EAGLE, KiCAD
 
 ## Mechnical design
 
-Fusion360, Semence NX, Nastran
+Fusion360, Siemens NX, Nastran
