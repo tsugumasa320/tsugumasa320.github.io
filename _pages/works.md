@@ -43,7 +43,7 @@ Joined [Panasonic Corporation](https://www.panasonic.com/global/about.html) in 2
   * Activities: Research and development of updatable home appliances
   * Outcome: Presentation to the board of directors and handover to the R&D department
   * Role: Technical research, prototype development, user testing, preparation of technical documents, patent application, etc.
-  * Patent: Support devices and methods [JP,2022-053808,A](https://www.j-platpat.inpit.go.jp/p0200) (Unclaimed)
+  * Patent: Support devices and methods [JP,2022-053808,A](https://www.j-platpat.inpit.go.jp/p0200)
 
 ---
 
