@@ -24,12 +24,12 @@ Work experience
     * Research on updatable appliances
     * Planning and prototyping of new features
 
-* Summer 2022: [teamLab inc.](https://www.teamlab.art/) (intern)
+* Summer 2022: [teamLab inc.](https://www.teamlab.art/) intern
   * Hardware Engineering Team (Space Production Engineer)
   * Sound processing and microcontroller firmware development
 
-* November ~ March 2022 (expected) : [Sony CSL](https://www.sonycsl.co.jp/)
-  * Flow machine project
+* November ~ March 2022 (expected) : [Sony Computer Science Laboratories, Inc.](https://www.sonycsl.co.jp/) Reserch Assistant
+  * [Flow machine project](https://www.flow-machines.com/)
   * ML Reserch Assistant
   
 Skills
