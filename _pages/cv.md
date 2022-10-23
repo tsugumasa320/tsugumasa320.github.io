@@ -27,6 +27,10 @@ Work experience
 * Summer 2022: [teamLab inc.](https://www.teamlab.art/) (intern)
   * Hardware Engineering Team (Space Production Engineer)
   * Sound processing and microcontroller firmware development
+
+* November ~ March 2022 (expected) : [Sony CSL](https://www.sonycsl.co.jp/)
+  * Flow machine project
+  * ML Reserch Assistant
   
 Skills
 ======
