@@ -69,5 +69,5 @@ Teaching assistant
 Others
 ======
 
-* 2022 Summer
-  * The University of Tokyo Intensive Lecture : Deep Generative Modeling Completion
+* 2022 Summer : The University of Tokyo
+  * Intensive Lecture Deep Generative Modeling Completion
