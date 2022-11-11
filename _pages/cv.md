@@ -36,7 +36,6 @@ Support
 ======
 * August 2022 - Present: [Cybozu Lab youth](https://labs.cybozu.co.jp/)
   * [Software development on machine learning](https://labs.cybozu.co.jp/youth/theme-nakatani.html)
-  * Adviser : Shuyo Nakatani
 
 Skills
 ======
@@ -66,8 +65,9 @@ Teaching assistant
 
 * 2022 Autumn: Signals and Systems
   
-<!--
-Miscellaneous
+
+Others
 ======
 
--->
+* 2022 Summer
+  * The University of Tokyo Intensive Lecture : Deep Generative Modeling Completion
