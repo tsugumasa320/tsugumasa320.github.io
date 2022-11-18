@@ -28,7 +28,7 @@ Professional Experience
   * Hardware Engineering Team intern (Space Production Engineer)
   * Sound processing and microcontroller firmware development
 
-* Autumn - Winter 2022 (expected) : [Sony Computer Science Laboratories, Inc.](https://www.sonycsl.co.jp/)
+* Autumn 2022 - Present: [Sony Computer Science Laboratories, Inc.](https://www.sonycsl.co.jp/)
   * [Flow machine project](https://www.flow-machines.com/)
   * ML Reserch Assistant
 
