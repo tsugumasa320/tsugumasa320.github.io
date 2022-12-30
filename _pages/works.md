@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-work at a company
-===
+ [Panasonic Corporation](https://www.panasonic.com/global/about.html)
+ ===
 
 Joined [Panasonic Corporation](https://www.panasonic.com/global/about.html) in 2017.I was assigned to the [laundry business and worked](https://panasonic.jp/wash/) as a production engineer from 2017~2019, and engaged in advanced development from 2019. In cooperation with the research department, I was in charge of a wide range of work from research and development of next-generation home appliances to themes that lead to product realization, and mainly conducted control software development centered on mechanical design development.
 
@@ -45,8 +45,21 @@ Joined [Panasonic Corporation](https://www.panasonic.com/global/about.html) in 2
   * Role: Technical research, prototype development, user testing, preparation of technical documents, patent application, etc.
   * Patent: Support devices and methods [JP,2022-053808,A](https://www.j-platpat.inpit.go.jp/p0200)
 
----
-
-Other
+Other 
 ===
 Responsible for quality improvement activities, creation of new themes, factory IoT, factory improvement activities, etc.
+
+
+---
+
+
+Research Assistants and Interns
+===
+
+* Summer 2022: [teamLab inc.](https://www.teamlab.art/)
+  * Hardware Engineering Team intern (Space Production Engineer)
+  * Sound processing and microcontroller firmware development
+
+* Autumn 2022 - Present: [Sony Computer Science Laboratories, Inc.](https://www.sonycsl.co.jp/)
+  * [Flow machine project](https://www.flow-machines.com/)
+  * ML Reserch Assistant
