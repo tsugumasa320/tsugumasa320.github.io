@@ -17,7 +17,7 @@ I participate in the activities of [Electronicos Fantasticos!](https://www.elect
 My interest
 ======
 ----
-My interest is to use deep learning to create new sound effects and synthesis. I want it to be something that can be used in real-time.
+My interest is to use deep learning to create new sound effects and synthesis.
 
 I used to build instruments by modifying consumer electronics. This was part of the [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/), and I made a lot of musical instruments. I have worked in hardware development (mainly looking at the mechanical design, circuits, and software.) in my previous jobs, and I am good at using digital fabrication techniques to develop interfaces for musical instruments.
 
