@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2023-02-04-seitokuws
 venue: "Seitoku Univercity"
 date: 2023-02-04
-location: "Chiba, JP"
+location: "Chiba Matsudo, JP"
 ---
 
 [More information here](http://example2.com)
