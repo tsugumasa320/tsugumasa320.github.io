@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a master's student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) and [The Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/). There, I am doing some research on neural audio synthesis.
-I hope to open up new instruments and explore new possibilities of musical expression through my research.
+I hope to open up new instruments and new musical possibilities through my research.
 
 Before entering the master’s program, 
 I worked for [Panasonic](https://www.panasonic.com/global/about.html)
