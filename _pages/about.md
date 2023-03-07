@@ -8,20 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) and [The Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/). There, I am researching neural audio synthesis. I hope to open up new instruments and new musical possibilities through this research.
+I am a master's student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) and [The Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/). There, I am doing some research on neural audio synthesis.
+I hope to open up new instruments and explore new possibilities of musical expression through my research.
 
-Before entering the master’s program, I worked for [Panasonic](https://www.panasonic.com/global/about.html) for five years in the development and design of [washing machines](https://panasonic.jp/wash/products.html).
+Before entering the master’s program, 
+I worked for [Panasonic](https://www.panasonic.com/global/about.html)
+for five years in the development and design department of [washing machines](https://panasonic.jp/wash/products.html).
 
 I participate in the activities of [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/) and make a home appliance instruments. In addition, I also make M4L plug-ins, guitar effectors, and circuit-bendable toys. I am also interested in modular synths and would like to build one in the future.
 
 My interest
 ======
 ----
-My interest is to use deep learning to create new sound effects and synthesis.
+My interests include using deep learning to create new sound effects and　sound synthesis.
 
-I used to build instruments by modifying consumer electronics. This was part of the [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/), and I made a lot of musical instruments. I have worked in hardware development (mainly looking at the mechanical design, circuits, and software.) in my previous jobs, and I am good at using digital fabrication techniques to develop interfaces for musical instruments.
+I used to build instruments by modifying consumer electronics, which was part of the [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/), and I also made a lot of musical instruments. I have been engaged in hardware development (mainly looking at the mechanical design, circuits, and software.), and I am good at using digital fabrication techniques to develop interfaces for musical instruments.
 
-I know how to do human-centered design and design thinking well, and I am strong in this process of prototyping and value verification in fast iterations to move things forward.
+I specialize in human-centered design and design thinking as well, and I am strong in this process of prototyping and value verification in fast iterations to move things forward.
 
 Technical Skils
 =====
