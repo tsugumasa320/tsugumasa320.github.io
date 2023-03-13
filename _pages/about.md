@@ -30,7 +30,7 @@ I used to build instruments by modifying consumer electronics, which was part of
 
 I specialize in human-centered design and design thinking as well, and I am strong in this process of prototyping and value verification in fast iterations to move things forward.
 
-Technical Skils
+Technical Skills
 =====
 
 ### Software design:
@@ -48,4 +48,4 @@ Fusion360, Siemens NX, Nastran
 
 ### Prototyping enviroment:
 
-Arduino, ESP32, M5Stack, Nucleo, obniz, Raspberry pi pico, Raspberry pi
+Arduino, ESP32, M5Stack, obniz, Raspberry pi pico, Raspberry pi
