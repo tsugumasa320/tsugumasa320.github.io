@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) and [The Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/). There, I am doing some research on neural audio synthesis.
-I hope to open up new instruments and new musical possibilities through my research.
+I am a master's student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) and [The Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/). where I'm conducting research on neural audio synthesis.
+My ultimate goal is to create innovative musical instruments and explore new possibilities in music.
 
-Before entering the master’s program, 
-I worked for [Panasonic](https://www.panasonic.com/global/about.html)
-for five years in the development and design department of [washing machines](https://panasonic.jp/wash/products.html).
+Prior to joining the master's program,
+I spent five years working in the development and design department of [washing machines](https://panasonic.jp/wash/products.html)
+at [Panasonic](https://www.panasonic.com/global/about.html).
 
-I participate in the activities of [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/) and make a home appliance instruments. In addition, I also make M4L plug-ins, guitar effectors, and circuit-bendable toys. I am also interested in modular synths and would like to build one in the future.
+Outside of my academic pursuits, I enjoy participating in the activities of Electronicos Fantasticos! where I create musical instruments from household appliances. I also have experience making M4L plug-ins, guitar effectors, and circuit-bendable toys. I'm also interested in modular synths and have plans to build one in the future.
+
+I participate in the activities of [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/) and make a home appliance instruments. 
+Additionally, I have experience making M4L plug-ins, guitar effectors, and circuit-bendable toys.
+I am also interested in modular synths and have aspirations of building one in the future.
 
 My interest
 ======
