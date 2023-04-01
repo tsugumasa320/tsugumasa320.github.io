@@ -69,5 +69,6 @@ Teaching assistant
 Others
 ======
 
+* 2021 Summer : Max Summer School 2021 in Geidai
 * 2022 Summer : The University of Tokyo
   * Intensive Lecture Deep Generative Modeling Completion
