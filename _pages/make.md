@@ -13,7 +13,7 @@ solo works
 ## WavetableCVAE (My research at the University)
 
 <!--<img width="846" alt="WavetableCVAE_UI" src="https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/91f2431f-82f1-4bae-b175-87178c2acadf">-->
-[![Demo movie](https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/bc095132-0810-4546-8f64-3137dca8268c)]([https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/ca60727c-6b5a-422a-b69b-cba9a0408ac7](https://youtu.be/ELjFxaOB5y0))
+[![Demo movie](https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/bc095132-0810-4546-8f64-3137dca8268c)](https://youtu.be/ELjFxaOB5y0)
 
 Presented at the [音学シンポジウム2023](https://www.ipsj.or.jp/kenkyukai/event/mus137slp147.html)
 
