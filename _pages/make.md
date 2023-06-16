@@ -12,26 +12,24 @@ solo works
 
 ## WavetableCVAE (My research at the University)
 
-https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/ca60727c-6b5a-422a-b69b-cba9a0408ac7
+[![Demo movie](https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/bc095132-0810-4546-8f64-3137dca8268c)](https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/ca60727c-6b5a-422a-b69b-cba9a0408ac7)
+
 
 Proposal of a semantic timbre control method for synthesizers using a deep generative model
 - In order to improve the difficulty of synthesizer sound creation, an intuitive timbre control is realized by incorporating a deep generative model into an sound synthesis method called "wavetable synthesis".
 - We evaluated the method by generating wavetables conditioned by semantic words (bright, warm, rich) using CVAE (Conditional Variational Auto-encoder).
 
-Deep Learning code: https://github.com/tsugumasa320/WavetableCVAE
+[Deep learning part](https://github.com/tsugumasa320/WavetableCVAE) and [plugin](https://github.com/tsugumasa320/WavetableCVAE_Plugin) releaseｄ on Github
 
-Plugin: https://github.com/tsugumasa320/WavetableCVAE_Plugin
+Deep learning framework uses pytorch, Plug-ins are created with JUCE and ONNX runtime
 
-Created by JUCE Framework and ONNX runtime.
 ===
 
 ## Development of Max for Live and BEAP modules
 
 <img width="701" alt="mybeap_and_m4l" src="https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/1b1ef4d3-9eff-4e65-8f61-c758e7e23ef7">
 
-BEAP: https://github.com/tsugumasa320/beapPatch
-
-M4L: https://github.com/tsugumasa320/M4L_Patch
+[BEAP](https://github.com/tsugumasa320/beapPatch) and [M4L patches](https://github.com/tsugumasa320/M4L_Patch) released
 
 collaboration
 ===
