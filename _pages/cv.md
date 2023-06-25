@@ -32,6 +32,13 @@ Professional Experience
   * [Flow machine project](https://www.flow-machines.com/)
   * ML Reserch Assistant
 
+
+Publication
+======
+
+**IPSJ: 音学シンポジウム学生優秀発表賞受賞**
+* 湯谷 承将, 山本 雄也, 中谷 秀洋, 寺澤 洋子：CVAEを用いたウェーブテーブル合成の意味的な音色制御，研究報告音声言語情報処理（SLP） 研究報告音声言語情報処理（SLP）,2023-SLP-147(8),1-7 (2023-06-16) , 2188-8663
+
 Support
 ======
 * August 2022 - Present: [Cybozu Lab youth](https://labs.cybozu.co.jp/)
