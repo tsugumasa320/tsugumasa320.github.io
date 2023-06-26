@@ -33,7 +33,7 @@ Professional Experience
   * ML Reserch Assistant
 
 
-Publication
+Publications
 ======
 
 * 澤村 拓樹, 長坂 らも, **湯谷 承将**, 釜石 健太郎, 廣田 曜, 平井 辰典, 池永 考志, 木野 伊祐, 半田 尚暉: [第9回国際会議既発表・デモ・萌芽・議論セッション](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=224332&item_no=1&page_id=13&block_id=8), 音楽情報科学（MUS）,2023-MUS-136(8),1-1 (2023-02-20) , 2188-8752
