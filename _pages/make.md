@@ -16,7 +16,7 @@ solo works
 [![Demo movie](https://github.com/tsugumasa320/tsugumasa320.github.io/assets/35299183/bc095132-0810-4546-8f64-3137dca8268c)](https://youtu.be/ELjFxaOB5y0)
 **↑Click to go to the video**
 
-Presented at the [音学シンポジウム2023](https://www.ipsj.or.jp/kenkyukai/event/mus137slp147.html)
+Presented at the [音学シンポジウム2023](https://www.ipsj.or.jp/kenkyukai/event/mus137slp147.html) **(Award for Best Student Presentation!)**
 
 Proposal of a semantic timbre control method for synthesizers using a deep generative model
 - To improve the difficulty of synthesizer sound creation, an intuitive timbre control is realized by incorporating a deep generative model into a sound synthesis method called “wavetable synthesis.”
