@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education 🏫
+Education
 ======
 * B.S. in [Precision Mechanical Engineering, Nihon University](https://www.eme.cst.nihon-u.ac.jp/), JAPAN, 2017
 * M.S. in [Informatics, Tsukuba University](https://informatics.tsukuba.ac.jp/en/), JAPAN, 2024 (expected)
