@@ -71,7 +71,7 @@ Teaching assistant 🧑‍🏫
 Patent 📄
 ======
 
-  * 2020.9.25: 特開2022-53808(P2022-53808A)
+  * Tsugumasa Yutani, Hideki Ono, Tomoya Sato. Support device and support method. JP Patent Application No.P2020-160637 filled Sep 25, 2020, Publication No.P2022-53808A published April 6, 2022.
 
 Others 👣
 ======
