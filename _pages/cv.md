@@ -45,7 +45,7 @@ Award & Fund 🏆
 ======
 * August 2022 - Present: [12th Cybozu Labo Youth Student Support Program](https://labs.cybozu.co.jp/), Cybozu Labs
 
-* June 2023: IPSJ [音学シンポジウム学生優秀発表賞受賞](https://informatics.tsukuba.ac.jp/awards-cl/14165/) (Best Student Presentation Award), IPSJ Special Interest Group on Music and Computer 
+* June 2023: IPSJ [音学シンポジウム学生優秀発表賞受賞](https://informatics.tsukuba.ac.jp/awards-cl/14165/) (Best Student Presentation Award), IPSJ Special Interest Group on Music and Computer
 
 Skills 🖥
 ======
@@ -71,8 +71,7 @@ Teaching assistant 🧑‍🏫
 Patent 📄
 ======
 
-* Washing machine
-  * Support devices and methods [JP,2022-053808,A](https://www.j-platpat.inpit.go.jp/p0200) 
+  * 2020.9.25: 特開2022-53808(P2022-53808A)
 
 Others 👣
 ======
