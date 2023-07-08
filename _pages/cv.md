@@ -44,7 +44,6 @@ Publications 📚
 Award & Fund 🏆
 ======
 * August 2022 - Present: [12th Cybozu Labo Youth Student Support Program](https://labs.cybozu.co.jp/), Cybozu Labs
-  * [Software development on machine learning](https://labs.cybozu.co.jp/youth/theme-nakatani.html)
 
 * 2023 June: IPSJ [音学シンポジウム学生優秀発表賞受賞](https://informatics.tsukuba.ac.jp/awards-cl/14165/) (Best Student Presentation Award), IPSJ Special Interest Group on Music and Computer 
 
