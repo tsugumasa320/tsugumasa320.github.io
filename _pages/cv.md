@@ -15,7 +15,7 @@ Education 🏫
 * M.S. in [Informatics, Tsukuba University](https://informatics.tsukuba.ac.jp/en/), JAPAN, 2024 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Professional Experience 👔
+Professional Experience
 ======
 * 2017 - 2022: [Panasonic Corp.](https://www.panasonic.com/global/about.html)
  * Advance Development of [Washing Machine](https://panasonic.jp/wash/)
@@ -33,7 +33,7 @@ Professional Experience 👔
   * ML Reserch Assistant (Part-time)
 
 
-Publications 📚
+Publications
 ======
 
 * 澤村 拓樹, 長坂 らも, **湯谷 承将**, 釜石 健太郎, 廣田 曜, 平井 辰典, 池永 考志, 木野 伊祐, 半田 尚暉: [第9回国際会議既発表・デモ・萌芽・議論セッション](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=224332&item_no=1&page_id=13&block_id=8), 音楽情報科学（MUS）,2023-MUS-136(8),1-1 (2023-02-20) , 2188-8752
@@ -41,13 +41,13 @@ Publications 📚
 **IPSJ: 音学シンポジウム学生優秀発表賞受賞**
 * **湯谷 承将**, 山本 雄也, 中谷 秀洋, 寺澤 洋子： [CVAEを用いたウェーブテーブル合成の意味的な音色制御](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=226312&item_no=1&page_id=13&block_id=8)， 音楽情報科学（MUS）,2023-MUS-137(8),1-7 (2023-06-16) , 2188-8752
 
-Award & Fund 🏆
+Award & Fund
 ======
 * August 2022 - Present: [12th Cybozu Labo Youth Student Support Program](https://labs.cybozu.co.jp/), Cybozu Labs
 
 * June 2023: IPSJ [音学シンポジウム学生優秀発表賞受賞](https://informatics.tsukuba.ac.jp/awards-cl/14165/) (Best Student Presentation Award), IPSJ Special Interest Group on Music and Computer
 
-Skills 🖥
+Skills
 ======
 
 <h3 align="left">Languages and Tools:</h3>
@@ -68,12 +68,12 @@ Teaching assistant 🧑‍🏫
 * 2022 Autumn: Signals and Systems
 -->  
 
-Patent 📄
+Patent
 ======
 
   * Tsugumasa Yutani, Hideki Ono, Tomoya Sato. Support device and support method. JP Patent Application No.P2020-160637 filled Sep 25, 2020, Publication No.P2022-53808A published April 6, 2022.
 
-Others 👣
+Others
 ======
 
 * 2021 Summer : Max Summer School 2021 in Geidai
