@@ -38,7 +38,7 @@ Publications
 
 * 澤村 拓樹, 長坂 らも, **湯谷 承将**, 釜石 健太郎, 廣田 曜, 平井 辰典, 池永 考志, 木野 伊祐, 半田 尚暉: [第9回国際会議既発表・デモ・萌芽・議論セッション](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=224332&item_no=1&page_id=13&block_id=8), 音楽情報科学（MUS）,2023-MUS-136(8),1-1 (2023-02-20) , 2188-8752
 
-<span style="color: Blue; ">**IPSJ: 音学シンポジウム学生優秀発表賞受賞(Best Student Presentation Award)**</span>
+<span style="color: Indigo; ">**IPSJ: 音学シンポジウム学生優秀発表賞受賞(Best Student Presentation Award)**</span>
 * **湯谷 承将**, 山本 雄也, 中谷 秀洋, 寺澤 洋子： [CVAEを用いたウェーブテーブル合成の意味的な音色制御](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=226312&item_no=1&page_id=13&block_id=8)， 音楽情報科学（MUS）,2023-MUS-137(8),1-7 (2023-06-16) , 2188-8752
 
 Award & Fund
