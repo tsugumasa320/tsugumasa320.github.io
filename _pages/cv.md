@@ -55,6 +55,14 @@ Skills
 and
 Fusion360, NX, EAGLE, KiCAD, Processing, Cycling'74 Max, Puredata, JUCE, MATLAB etc...
 
+
+<h3 align="left">License:</h3>
+
+* 普通自動車免許(Regular driver's license)
+* 普通自動二輪免許(Regular motorcycle license)
+* 特殊小型船舶免許(Water ski license)
+* ガス溶接作業者(gas welding license)
+
 <!--
 Publications
 ======
