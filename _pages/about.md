@@ -8,24 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at the [University of Tsukuba](https://www.tsukuba.ac.jp/en/) and [The Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/). I am currently researching neural audio synthesis,
-and my ultimate goal is to create innovative musical instruments and explore new possibilities in music.
+湯谷 承将 (Tsugumasa Yutani)
 
-Before starting my master's program,
-I worked five years working in the development and design department of [washing machines](https://panasonic.jp/wash/products.html)
-at [Panasonic](https://www.panasonic.com/global/about.html).
+Maker / Audio Programmer
+1995年東京生まれ。筑波大学大学院 情報学学位プログラム修了、[パナソニック株式会社](https://www.panasonic.com/jp/about.html)や[AlphaTheta株式会社](https://alphatheta.com/ja/)(元Pioneer DJ)で主に先行開発/要素技術開発を行うエンジニアとして勤務。
+音や音楽に興味があるエンジニア、メイカーで自作の楽器やデバイスを用いて演奏や制作活動を行う。Cycling’74 Maxが好き
 
-Outside of my academic pursuits, I enjoy participating in the activities of Electronicos Fantasticos! where I create musical instruments from household appliances. I also have experience making M4L plug-ins, guitar effectors, and circuit-bendable toys. I'm also interested in modular synths and have plans to build one in the future.
+Born 1995 in Tokyo. Graduated from the University of Tsukuba with a degree in Informatics, and worked as an engineer at [Panasonic Corporation](https://www.panasonic.com/global/about.html) and [AlphaTheta Corporation](https://alphatheta.com/en/) (formerly Pioneer DJ), mainly in advanced development and elemental technology development.
+
+Engineer and maker interested in sound and music, performs and produces using self-made instruments and devices. Cycling'74 Max enthusiast.
 
 My interest
 ======
 ----
-My interests include using deep learning to create new sound effects and　sound synthesis.
 
-I used to build instruments by modifying consumer electronics, which was part of the [Electronicos Fantasticos!](https://www.electronicosfantasticos.com/), and I also made a lot of musical instruments. I have been engaged in hardware development (mainly looking at the mechanical design, circuits, and software.), and I am good at using digital fabrication techniques to develop interfaces for musical instruments.
+特にノイズやアンビエントミュージックに深い関心があり、その為の音響合成方式やインターフェイスについて考えています。
+[深層学習を用いたシンセサイザーについて研究](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=226312&item_no=1&page_id=13&block_id=8)を行ったり、[家電を改造して楽器にする集団](https://www.electronicosfantasticos.com/)に所属したり、[Ableton Live用のデバイスを開発](https://t.co/rtWu1g9CSs)したり様々な技術や音楽領域を横断しながら活動しています。
 
-I alos specialize in human-centered design and design thinking as well,
-and I am strong in this process of prototyping and value verification in fast iterations to move things forward.
+I am particularly interested in noise and ambient music, and am thinking about sound synthesis methods and interfaces for this.
+I am also involved in research on synthesis using deep learning, [belong to a group that modifies home appliances to make them into musical instruments](https://www.electronicosfantasticos.com/), develop devices for Ableton Live, and work across a variety of technologies and musical domains.
+
 
 Technical Skills
 =====
