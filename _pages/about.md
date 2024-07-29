@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Hi 👋, I'm Tsugumasa Yutani"
+title: "湯谷 承将 (Tsugumasa Yutani)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-湯谷 承将 (Tsugumasa Yutani)
 
 Maker / Audio Programmer
 1995年東京生まれ。筑波大学大学院 情報学学位プログラム修了、[パナソニック株式会社](https://www.panasonic.com/jp/about.html)や[AlphaTheta株式会社](https://alphatheta.com/ja/)(元Pioneer DJ)で主に先行開発/要素技術開発を行うエンジニアとして勤務。
