@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Works"
-    url: /works/
+#  - title: "Works"
+#    url: /works/
     
   - title: "Make"
     url: /make/
+
+  - title: "M4L Devices"
+    url: https://tsugumasa320.gumroad.com/
     
   - title: "Talks"
     url: /talks/    
