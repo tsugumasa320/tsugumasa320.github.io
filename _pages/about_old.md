@@ -4,8 +4,8 @@ title: "湯谷 承将 (Tsugumasa Yutani)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_old/
+  - /about_old.html
 ---
 
 **Maker / Audio Programmer
