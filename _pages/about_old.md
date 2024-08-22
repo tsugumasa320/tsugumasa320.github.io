@@ -1,5 +1,5 @@
 ---
-permalink: /about_old
+permalink: /about_old/
 title: "湯谷 承将 (Tsugumasa Yutani)"
 excerpt: "About me"
 author_profile: true
