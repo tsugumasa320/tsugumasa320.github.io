@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-移動しました。　The portfolio website has been moved.
-https://tsugumasa320.com/
+移動しました。
 
+The portfolio website has been moved.
+
+
+
+[https://tsugumasa320.com/](https://tsugumasa320.com/)
